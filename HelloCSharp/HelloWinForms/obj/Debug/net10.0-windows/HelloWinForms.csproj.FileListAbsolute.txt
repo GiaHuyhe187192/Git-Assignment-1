@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\bin\Debug\net10.0-windows\HelloWinForms.exe
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\bin\Debug\net10.0-windows\HelloWinForms.deps.json
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\bin\Debug\net10.0-windows\HelloWinForms.runtimeconfig.json
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\bin\Debug\net10.0-windows\HelloWinForms.dll
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\bin\Debug\net10.0-windows\HelloWinForms.pdb
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.sourcelink.json
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.dll
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\obj\Debug\net10.0-windows\refint\HelloWinForms.dll
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.pdb
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GITHUB\Git-Assignment-1\HelloCSharp\HelloWinForms\obj\Debug\net10.0-windows\ref\HelloWinForms.dll
